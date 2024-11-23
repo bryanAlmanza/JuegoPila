@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="229"
+   height="49"
+   viewBox="0 0 60.589583 12.964583"
+   version="1.1"
+   id="svg3383"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="dibujo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview3385"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:lockguides="false"
+     inkscape:zoom="4.1147726"
+     inkscape:cx="121.99945"
+     inkscape:cy="9.8425852"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:page
+       x="0"
+       y="0"
+       width="60.589584"
+       height="12.964583"
+       id="page4516"
+       inkscape:export-filename=".\btnHis.png"
+       inkscape:export-xdpi="114.25401"
+       inkscape:export-ydpi="114.25401" />
+    <inkscape:page
+       x="2.6696279"
+       y="186.87395"
+       width="943.26849"
+       height="141.49028"
+       id="page4518" />
+  </sodipodi:namedview>
+  <defs
+     id="defs3380" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="font-variation-settings:'wdth' 87, 'wght' 700;fill:#49499f;fill-opacity:1;stroke:#0b1b56;stroke-width:0.483673;stroke-linecap:square;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect3439"
+       width="35.005337"
+       height="11.951457"
+       x="12.312159"
+       y="0.46880764" />
+    <text
+       xml:space="preserve"
+       style="font-size:8.54101px;line-height:1.25;font-family:Kimberley;-inkscape-font-specification:'Kimberley, @wght=700,wdth=87.0';font-variation-settings:'wdth' 87, 'wght' 700;fill:#0d0ddb;fill-opacity:1;stroke:#a6b2d6;stroke-width:0.535625;stroke-linecap:square;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       x="20.07991"
+       y="9.8859768"
+       id="text4186"
+       inkscape:export-filename=".\btnSalir.png"
+       inkscape:export-xdpi="114.25401"
+       inkscape:export-ydpi="114.25401"><tspan
+         sodipodi:role="line"
+         id="tspan4184"
+         style="fill:#0d0ddb;fill-opacity:1;stroke:#a6b2d6;stroke-width:0.535625;stroke-dasharray:none;stroke-opacity:1"
+         x="20.07991"
+         y="9.8859768">Salir</tspan></text>
+  </g>
+</svg>

@@ -4,30 +4,33 @@
  */
 package ucr.ac.cr.tm2100.g3.juegopila.model;
 
+import javax.swing.ImageIcon;
+
+
+
 /**
  *
  * @author bombe
  */
 public class Personaje {
+
     private String clase;
     private int vida;
     private int danho;
-    private int velocidad;
-
-    public Personaje(String clase, int vida, int danho, int velocidad) {
+    
+    public Personaje(String clase, int vida, int danho) {
         this.clase = clase;
         this.vida = vida;
         this.danho = danho;
-        this.velocidad = velocidad;
     }
 
     public Personaje() {
-        this.clase="";
-        this.vida=0;
-        this.danho=0;
-        this.velocidad=0;
+        this.clase = "";
+        this.vida = 3;
+        this.danho = 1;
     }
-
+    
+            
     public String getClase() {
         return clase;
     }
@@ -43,6 +46,10 @@ public class Personaje {
     public void setVida(int vida) {
         this.vida = vida;
     }
+    
+    public void perderVida(){
+        vida--;
+    }
 
     public int getDanho() {
         return danho;
@@ -52,20 +59,9 @@ public class Personaje {
         this.danho = danho;
     }
 
-    public int getVelocidad() {
-        return velocidad;
-    }
-
-    public void setVelocidad(int velocidad) {
-        this.velocidad = velocidad;
-    }
-
     @Override
     public String toString() {
-        return "Caracteristicas del Personaje:" + "\nclase:" + clase + "\nvida:" + vida + "\ndanho:" + danho + "\nvelocidad:" + velocidad;
+        return "Caracteristicas del Personaje:" + "\nclase:" + clase + "\nvida:" + vida + "\ndanho:" + danho;
     }
-    
-    
-    
-    
+
 }
